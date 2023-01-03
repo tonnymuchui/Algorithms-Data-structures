@@ -1,4 +1,4 @@
-function isPowerofTwo() {
+function isPowerofTwo(n) {
     if(n < 1) {
         return false;
     }
